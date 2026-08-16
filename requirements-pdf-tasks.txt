@@ -1,0 +1,34 @@
+# Core
+numpy
+scipy
+networkx
+matplotlib
+pandas
+jupyter
+
+# Transformer / fine tuning
+torch
+transformers
+peft
+accelerate
+trl
+sentence-transformers
+
+# RAG
+faiss-cpu
+fastapi
+uvicorn
+langchain
+
+# Production integrations (install separately when needed)
+# autogen-agentchat
+# redis
+# psycopg2-binary
+# qdrant-client
+# pyspark
+# kafka-python
+# prometheus-client
+# neMo-guardrails
+
+# Task 3 local serving is installed separately via Ollama.
+# Task 14 requires a CUDA Toolkit + compatible C++ compiler.
